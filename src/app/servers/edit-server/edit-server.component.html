@@ -1,3 +1,9 @@
+ {{allowEdit}}
+
+<div *ngIf="!allowEdit; else aloweedit"> you are not allow edit</div>
+
+<ng-template #aloweedit>
+
 <div class="form-group">
   <label for="name">Server Name</label>
   <input
@@ -19,3 +25,4 @@
 <button
   class="btn btn-primary"
   (click)="onUpdateServer()">Update Server</button>
+  </ng-template>
