@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="927d10cb-ebcb-47a4-af45-9b03033c6ad5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aXdgWTzBT9Cs8r06LNcXMQZpVW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (my-first-app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="927d10cb-ebcb-47a4-af45-9b03033c6ad5" name="Default Changelist" comment="" />
+      <created>1586885983551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586885983551</updated>
+      <workItem from="1586885984962" duration="1175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="267" key="GridCell.Tab.0.bottom" timestamp="1586887255375">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.bottom/0.23.1680.988@0.23.1680.988" timestamp="1586887255375" />
+    <state width="1659" height="267" key="GridCell.Tab.0.center" timestamp="1586887255374">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.center/0.23.1680.988@0.23.1680.988" timestamp="1586887255374" />
+    <state width="1659" height="267" key="GridCell.Tab.0.left" timestamp="1586887255373">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.left/0.23.1680.988@0.23.1680.988" timestamp="1586887255373" />
+    <state width="1659" height="267" key="GridCell.Tab.0.right" timestamp="1586887255375">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state width="1659" height="267" key="GridCell.Tab.0.right/0.23.1680.988@0.23.1680.988" timestamp="1586887255375" />
+  </component>
+</project>
